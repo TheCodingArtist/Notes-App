@@ -1,0 +1,16 @@
+*{
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+.head{
+    font-size: 6.5rem;
+    background-image: linear-gradient(to right, rgb(120, 22, 22),rgb(0, 30, 255),rgb(40, 214, 40));
+    background-clip:text;
+    color: transparent;
+}
+.button{
+    background-image: linear-gradient(to left, rgb(120, 22, 22),rgb(0, 30, 255),rgb(40, 214, 40));
+   color: white;
+   font-weight: bold;
+}
